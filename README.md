@@ -7,3 +7,5 @@
 
 5. 38 conserved residues along the 9 sequences
 6. 46 strong similar properties especially among HDAC9-7-4-5
+7. Binding site for HDAC7/9/4/5 are conserved
+8. Active site is conserved along the all sequences
